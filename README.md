@@ -5,7 +5,11 @@ This is another line
 june 06 2022
 
 OKECHUKWU UWADOKA
+<<<<<<< HEAD
 
-OKEY UWADOKA
+
 
 Dokason Five
+=======
+# I made some changes as Prof. Apoti asked us to
+>>>>>>> ticket234
